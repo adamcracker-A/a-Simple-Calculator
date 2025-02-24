@@ -1,2 +1,2 @@
 # a-Simple-Calculator
-A Simple Functional Calculator
+A Simple and Functional Calculator with Exception Handling
